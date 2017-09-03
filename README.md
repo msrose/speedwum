@@ -12,5 +12,5 @@ Wuppo wiki: http://wuppo.wikia.com/wiki/Wuppo_Wiki
 
 ### Any %
 
-- [Easy]('./EASY.md')
-- [Insane]('./INSANE.md')
+- [Easy](./EASY.md)
+- [Insane](./INSANE.md)
