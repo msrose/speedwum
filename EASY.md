@@ -179,10 +179,49 @@
 
 
 ## Breevis
+- Cross the underside of the bridge to old town
+- Keep going left until you get to the gumgumgun shop.
+- Enter the gun shop and modify your gun with whichever core you happened to fish out.
+  - you DO NOT need to talk to the owner to use the machine. Do not sign any contracts with shady arms dealers that live in sewers.
+  - While the gun is being modified you can take the time to bind the swim suit and the toy to hot keys for easy access
+- With your modified gun go back under the tram bridge until you get to the save pot at the midpoint.
+- Enter the water here and go to the room with the toy switch
+- Place the toy on the pedestal and then head into the boss room.
+- TIPS FOR BREEVUS:
+  - Go to the middle of the room and then head straight to the right of the room. This will manipulate Breevus into doing a horizontal sweep of the room. This gives you the most time to knock his back teeth out and fill him with gumgum (lewd af) 
+  - This fight has 3 phases. To be as fast as possible your aim is to shoot enough gumgum into him to get him to move to his coughing phase after 1 sweep.
+- When mini Breevus floats down the dialogue should be roughly as follows:
+  - "You tried to eat me"
+  -"Your friends are invading the city"
+  -"Tell them to stop"
+  - For all other dialogue pick first option.
+-Go back to the surface and tell the cityfolk you were fighting a monster (first option)
+-Head to central and reunite Breevus with Henk.
 
 ## Redav Kned's Guest House
+- Once the credit stream is up again head into the pipe under henk and go to the drill area.
+  - While waiting for the drill make sure you have the following items hot keyed:
+    - Cherries (for guesthouse)
+    - popo hat (for guesthouse)
+    - gumgumgun (it was un keyed when modified so make sure to rebind it)
+    - pot helmet (For anthropological reasons)
+- When you first enter sinkhole tell the city people that you will join them
+- Open the gate for them with the popohat
+- When everyone loses there shit and runs away ask them "what will you do about it" (second option)
+-Put on your pot helmet and head right until you get to guest house.
+- [Insert video tutorial of guesthouse here]
+- Make sure you bind the music box and the hat (which was unbound during the guesthouse) to hotkeys
 
 ## Fnakbal
+- Once you exist guesthouse proceed right and pick up minifnak.
+  - most of hist dialogue options really do not matter to much but make sure you pick "Lets go" for the last option
+  - DO NOT ask him what the fnakkers are building cuz he will talk for days!
+- In the first screen after the food drop zone lower the elevator for easy access later. 
+- Move through the hive until you get to the Fnakbal stadium.
+- Find the team manager and convince him you are a pro Fnaball player
+- Move into the court and smile at your teammate as you destroy his ambitions and dreams by playing 3 v 1 fnak ball
+  - It is easiest if you equip the pot helmet for this. Minifnak tends to hit the ball right no matter what because he apparently does not understand how sports work.
+
 
 ## Chef Fnaquere
 
