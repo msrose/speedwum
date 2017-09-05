@@ -9,18 +9,18 @@
 - Go to first floor and get the ice cream, go back to the fourth floor and get caught spilling it
 - Waddle to the window instead of waiting for Carlo's thugs to pick you up
 
-## Allesdenker
+## Allesweter
 
-- Jumping through the water until the Allesdenker's house is a bit faster
-- Go see Allesdenker, watch the filmstrip, get your gumgumgun and set a shortcut for it while equipping it
-- Ask Allesdenker for a match
+- Jumping through the water until the Allesweter's house is a bit faster
+- Go see Allesweter, watch the filmstrip, get your gumgumgun and set a shortcut for it while equipping it
+- Ask Allesweter for a match
   - Match is used later for tunnel and activating the tube system in the Wumhouse
 
-## Best Friend
+## Denksnavel
 
-- Unfortunately, you have to pick the bird up, otherwise Allesdenker's back door doesn't open
+- Unfortunately, you have to pick the bird up, otherwise Allesweter's back door doesn't open
 - For the least dialogue, choose to read the sign, then say that it says "...Nothing"
-- Jump into Allesdenker's chimney and go out the back door
+- Jump into Allesweter's chimney and go out the back door
 
 ## Fish
 
