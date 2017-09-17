@@ -188,17 +188,18 @@
 - Enter the water here and go to the room with the toy switch
 - Place the toy on the pedestal and then head into the boss room.
 - TIPS FOR BREEVUS:
-  - Go to the middle of the room and then head straight to the right of the room. This will manipulate Breevus into doing a horizontal sweep of the room. This gives you the most time to knock his back teeth out and fill him with gumgum (lewd af) 
+  - Go to the middle of the room and then head straight to the right of the room. This will manipulate Breevus into doing a horizontal sweep of the room. This gives you the most time to knock his back teeth out and fill him with gumgum (lewd af)
   - This fight has 3 phases. To be as fast as possible your aim is to shoot enough gumgum into him to get him to move to his coughing phase after 1 sweep.
 - When mini Breevus floats down the dialogue should be roughly as follows:
   - "You tried to eat me"
   -"Your friends are invading the city"
   -"Tell them to stop"
   - For all other dialogue pick first option.
--Go back to the surface and tell the cityfolk you were fighting a monster (first option)
--Head to central and reunite Breevus with Henk.
+- Go back to the surface and tell the cityfolk you were fighting a monster (first option)
+- Head to central and reunite Breevus with Henk.
 
 ## Redav Kned's Guest House
+
 - Once the credit stream is up again head into the pipe under henk and go to the drill area.
   - While waiting for the drill make sure you have the following items hot keyed:
     - Cherries (for guesthouse)
@@ -208,20 +209,52 @@
 - When you first enter sinkhole tell the city people that you will join them
 - Open the gate for them with the popohat
 - When everyone loses there shit and runs away ask them "what will you do about it" (second option)
--Put on your pot helmet and head right until you get to guest house.
+- Put on your pot helmet and head right until you get to guest house.
 - [Insert video tutorial of guesthouse here]
 - Make sure you bind the music box and the hat (which was unbound during the guesthouse) to hotkeys
 
 ## Fnakbal
+
+- Now you need to get a Fnakbal trophy before heading up to Chef Fnaquere
 - Once you exist guesthouse proceed right and pick up minifnak.
   - most of hist dialogue options really do not matter to much but make sure you pick "Lets go" for the last option
   - DO NOT ask him what the fnakkers are building cuz he will talk for days!
-- In the first screen after the food drop zone lower the elevator for easy access later. 
+- In the first screen after the food drop zone lower the elevator for easy access later.
 - Move through the hive until you get to the Fnakbal stadium.
 - Find the team manager and convince him you are a pro Fnaball player
+- Turns out it's a bit faster (and definitely more consistent) to lose at Fnakbal (you can use either the first place or second place trophy for the soup ingredient)
 - Move into the court and smile at your teammate as you destroy his ambitions and dreams by playing 3 v 1 fnak ball
   - It is easiest if you equip the pot helmet for this. Minifnak tends to hit the ball right no matter what because he apparently does not understand how sports work.
+  - Make sure to verbally slander your teammate if he actually does something for once, thereby slowing down how quickly you lose
 
+## Fnakker Friends
+
+- Head back through the hive towards the Blenk Tower elevator
+- Jump on the elevator and send it up using the music box
+- Jump up to the stairs until you get to the Fnakker who's pulling the level making the platforms go up and down
+- Put on your Popo hat to make the Fnakker jump off
+  - Try and time it so the right platform is highest
+  - If you need to, pull the lever so the right platform is highest
+- Jump up to the next platform on the right side
+  - It can be a tricky jump but you can make it
+  - You can jump to the left as well but going right is a bit quicker since you can go right to the block you have to pull
+- Pull a block into position
+- Jump up to the lever and pull it to break the big stone blocking the wall
+- Head into the new opening and up to the Church Fnakkers
+  - You're going to be tanking all the damage from Church Fnakkers, so you might want to heal at the bucket before you enter the fight if you took a lot of damage from the Fnakker rocks when climbing Blenk Tower
+- Make sure you're disguised until you get to the block, then put on your Popo Hat and pull it towards the elevator
+  - The Fnakkers will molest you but you can tank everything on Easy
+- Pull the block until just before the opening where you entered the church, then you're close enough so you can jump on the block and up to the elevator
+- Send the elevator up using the music box
+- Do the [Wuppo Duke Skip](https://www.youtube.com/watch?v=ve9MpuliPDU)
+  - It's optional but saves a bit of time in a part of the run without many time saves. If you won't make it in the first few tries just go the normal way.
+  - If you go the normal way, remember you can just send the elevator up and down anywhere when you're in the church, so you don't have to go all the way back down ever. Just jump onto the elevator from the higher platform after you've moved the block
+- Send the elevator all the way up and head to the Fnakker Fatties boss fight
+  - You'll probably want to save quickly before to heal yourself
+- Enter the fight and whip their butts
+  - Rapid fire is actually really good in this fight since it eats all of their projectiles
+  - Bazooka is bad since it bounces off the fattiest one for some dumb reason
+  - Bucket can be useful here since it should be refilled at this point (from Breevis) if you have it
 
 ## Chef Fnaquere
 
