@@ -1,0 +1,11 @@
+{
+  "name": "speedwum",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "toc": "markdown-toc -i EASY.md"
+  },
+  "devDependencies": {
+    "markdown-toc": "^1.1.0"
+  }
+}

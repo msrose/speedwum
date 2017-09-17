@@ -1,5 +1,32 @@
 # Wuppo Any% (Easy) Route Notes
 
+<!-- Table of contents is auto-generated here with `npm run toc` command -->
+
+<!-- toc -->
+
+- [Getting kicked out of the Wumhouse](#getting-kicked-out-of-the-wumhouse)
+- [Allesweter](#allesweter)
+- [Denksnavel](#denksnavel)
+- [Fish](#fish)
+- [Snail](#snail)
+- [Slab/Idol](#slabidol)
+- [Tunnel](#tunnel)
+- [Rock](#rock)
+- [Clean up](#clean-up)
+- [Ice Cream](#ice-cream)
+- [Pre-train Activities](#pre-train-activities)
+- [Dorst's Caffe (Optional)](#dorsts-caffe-optional)
+- [Getting to 99999 Credit](#getting-to-99999-credit)
+- [Breevis](#breevis)
+- [Redav Kned's Guest House](#redav-kneds-guest-house)
+- [Fnakbal](#fnakbal)
+- [Fnakker Friends](#fnakker-friends)
+- [Chef Fnaquere](#chef-fnaquere)
+- [Bankkrent 1](#bankkrent-1)
+- [Bankkrent 2](#bankkrent-2)
+
+<!-- tocstop -->
+
 ## Getting kicked out of the Wumhouse
 
 - Most of this section is scripted
